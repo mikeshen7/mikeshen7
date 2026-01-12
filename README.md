@@ -1,12 +1,3 @@
-![Mike Shen's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikeshen7&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikeshen7)](https://github.com/anuraghazra/github-readme-stats)
-
-![Mike Shen' Stats](https://github-readme-stats.vercel.app/api?username=mikeshen7&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeshen7)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p>
 <a href="https://www.linkedin.com/in/mike-shen1/" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-linkedin-48.png"></a>&nbsp;&nbsp;
 <a href="mailto:michael.m.shen@gmail.com" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-gmail-logo-48.png"></a>&nbsp;&nbsp;
