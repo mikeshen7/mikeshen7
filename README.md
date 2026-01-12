@@ -1,3 +1,7 @@
+![Mike Shen's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikeshen7&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikeshen7)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Mike Shen' Stats](https://github-readme-stats.vercel.app/api?username=mikeshen7&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeshen7)](https://github.com/anuraghazra/github-readme-stats)
